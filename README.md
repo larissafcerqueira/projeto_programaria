@@ -9,7 +9,7 @@
 
 Analisar a representatividade e as disparidades dentro do setor de TI no Brasil, com foco em diversidade de gênero, etnia, desigualdade salarial e distribuição geográfica, para evidenciar desafios e promover a discussão sobre inclusão e equidade no setor.
 
-## 🔍 Etapa do Projeto
+## 🔍 Etapas do Projeto
 
 1. **Tratamento e limpeza dos dados:**  
    Utilizei **Python** para organizar e preparar os dados, garantindo sua qualidade para análises subsequentes.
